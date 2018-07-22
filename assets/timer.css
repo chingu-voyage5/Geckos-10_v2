@@ -42,6 +42,7 @@
     display: block;
     box-shadow: 0 0 62px -1px rgba(0, 207, 155, 0.7);
     background-color: #000;
+    margin: 0 auto;
   }
 
   a#StartButton {
