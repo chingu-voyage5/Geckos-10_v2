@@ -69,16 +69,11 @@
   .hide {
     display: none;
   }
-.imgBack {
-  background-image: url("media_assets/Zen Meditation HD 1.jpg");
-  background-size: cover;
-  min-height: 450px;
-  height: 100%;
-  width: vw;
-}
+
 /*Desktop*/
 @media (min-width: 1300px) {
   .imgText {
-    margin-left: 40%;
+    margin: auto;
+    width: 70%;
   }
 }
